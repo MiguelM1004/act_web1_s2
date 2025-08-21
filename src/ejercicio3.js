@@ -9,3 +9,4 @@ if (edad >= 0 && edad <= 12) {
 } else if (edad >= 65) {
     console.log("La persona es un anciano");
 }
+

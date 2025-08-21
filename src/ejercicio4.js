@@ -17,3 +17,4 @@ if (operador === '+') {
 } else {
     console.log("operador no válido");
 }
+

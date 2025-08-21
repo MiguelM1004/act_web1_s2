@@ -12,3 +12,4 @@ if (edad < 18) {
 }
 
 console.log(precioFinal.toFixed(2));  // Redondeamos a 2 decimales
+

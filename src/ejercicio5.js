@@ -7,3 +7,4 @@ if (dia === 'lunes' || dia === 'martes' || dia === 'miércoles' || dia === 'juev
 } else {
     console.log("día no válido");
 }
+

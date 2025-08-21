@@ -11,3 +11,4 @@ if (cantidad < 10) {
 }
 
 console.log(precioFinal.toFixed(2));
+

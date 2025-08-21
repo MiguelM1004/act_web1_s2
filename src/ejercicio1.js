@@ -5,3 +5,4 @@ if (num % 2 == 0) {
 } else if (num % 2 == 1) {
     console.log("impar");
 }
+

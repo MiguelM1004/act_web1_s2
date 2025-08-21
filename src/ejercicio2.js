@@ -6,3 +6,4 @@ if (a > b) {
 } else {
     console.log("En este caso, el número mayor es" + b);
 }
+

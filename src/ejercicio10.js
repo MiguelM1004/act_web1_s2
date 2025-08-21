@@ -6,3 +6,4 @@ if (usuario === "admin" && contrasena === "1234") {
 } else {
     console.log("accesos denegado");
 }
+
